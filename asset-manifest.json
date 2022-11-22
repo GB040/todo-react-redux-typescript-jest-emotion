@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todos/static/css/main.fdb3138e.css",
-    "main.js": "/todos/static/js/main.acc0f81a.js",
-    "index.html": "/todos/index.html",
-    "main.fdb3138e.css.map": "/todos/static/css/main.fdb3138e.css.map",
-    "main.acc0f81a.js.map": "/todos/static/js/main.acc0f81a.js.map"
+    "main.css": "/todo-react-redux-typescript-jest-emotion/static/css/main.fdb3138e.css",
+    "main.js": "/todo-react-redux-typescript-jest-emotion/static/js/main.acc0f81a.js",
+    "index.html": "/todo-react-redux-typescript-jest-emotion/index.html",
+    "main.fdb3138e.css.map": "/todo-react-redux-typescript-jest-emotion/static/css/main.fdb3138e.css.map",
+    "main.acc0f81a.js.map": "/todo-react-redux-typescript-jest-emotion/static/js/main.acc0f81a.js.map"
   },
   "entrypoints": [
     "static/css/main.fdb3138e.css",
