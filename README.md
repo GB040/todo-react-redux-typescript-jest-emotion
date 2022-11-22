@@ -1,4 +1,4 @@
-# [**TODOS**](https://gb040.github.io/todos/ "Ссылка на проект") 
+# [**TODOS**](https://gb040.github.io/todo-react-redux-typescript-jest-emotion/ "Ссылка на проект") 
 
 ## Описание проекта
 
@@ -30,4 +30,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Демоверсия
 
-https://gb040.github.io/todos/
+https://gb040.github.io/todo-react-redux-typescript-jest-emotion/

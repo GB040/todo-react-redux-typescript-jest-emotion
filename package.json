@@ -1,6 +1,6 @@
 {
   "name": "todos-react-ts",
-  "homepage": "https://gb040.github.io/todos/",
+  "homepage": "https://gb040.github.io/todo-react-redux-typescript-jest-emotion/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
